@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     // site title
     title: 'Tuwim',
     // site subtitle
-    subtitle: 'Revive the beauty of typography',
+    subtitle: 'Wiersze Tuwima',
     // site description
     description: 'Julian Tuwim – jeden z najwybitniejszych poetów polskich XX wieku, mistrz języka i humoru. Strona prezentuje jego najpiękniejsze wiersze dla dzieci. Twórczość Tuwima łączy radość życia, dowcip i głębię, pozostając ważną częścią polskiej kultury.',
     // use i18n title/subtitle/description from src/i18n/ui.ts instead of static ones above
@@ -157,7 +157,7 @@ export const themeConfig: ThemeConfig = {
       },
       {
         name: 'Email',
-        url: 'email@radishzz.cc',
+        url: 'serwis@tuwim.asdadadasd',
       },
       // {
       //   name: 'X',
