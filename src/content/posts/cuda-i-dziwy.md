@@ -42,15 +42,25 @@ Może dwie chwilki.
 A zobaczyłem
 
 Ten świat uroczy,
+
 Gdy miałem właśnie
+
 Przymknięte oczy.
+
 Gdym je otworzył,
+
 Wszystko się skryło
+
 I znów na świecie
+
 Jak przedtem było.
+
 Wszystko się pięknie
+
 Dzieje i toczy...
+
 Lecz odtąd - często
+
 Przymykam oczy.
 
 ---
