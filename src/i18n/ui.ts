@@ -9,9 +9,9 @@ export const ui = {
     toc: 'Inhaltsverzeichnis',
   },
   'en': {
-    title: 'Retypeset',
-    subtitle: 'Revive the beauty of typography',
-    description: 'Retypeset is a static blog theme based on the Astro framework. Inspired by Typography, Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.',
+    title: 'Tuwim',
+    subtitle: 'Wiersze Tuwima',
+    description: 'Julian Tuwim – jeden z najwybitniejszych poetów polskich XX wieku, mistrz języka i humoru. Strona prezentuje jego najpiękniejsze wiersze dla dzieci. Twórczość Tuwima łączy radość życia, dowcip i głębię, pozostając ważną częścią polskiej kultury.',
     posts: 'Posts',
     tags: 'Tags',
     about: 'About',
