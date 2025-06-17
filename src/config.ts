@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
     // author name
     author: 'radishzz',
     // site url
-    url: 'https://retypeset.radishzz.cc',
+    url: 'https://tuwim.netlify.app',
     // favicon url
     // recommended formats: svg, png or ico
     favicon: '/icons/favicon.svg', // or https://example.com/favicon.svg
@@ -53,7 +53,7 @@ export const themeConfig: ThemeConfig = {
     locale: 'pl', // de, en, es, fr, ja, ko, pl, pt, ru, zh, zh-tw
     // more languages
     // not fill in the locale code above again, can be an empty array []
-    moreLocales: ['en'], // ['de', 'en', 'es', 'fr', 'ja', 'ko', 'pl', 'pt', 'ru', 'zh', 'zh-tw']
+    moreLocales: [''], // ['de', 'en', 'es', 'fr', 'ja', 'ko', 'pl', 'pt', 'ru', 'zh', 'zh-tw']
     // font styles for post text
     fontStyle: 'sans', // sans, serif
     // date format for posts
@@ -150,10 +150,6 @@ export const themeConfig: ThemeConfig = {
       {
         name: 'RSS',
         url: '/atom.xml', // or /rss.xml
-      },
-      {
-        name: 'GitHub',
-        url: 'https://github.com/radishzzz/astro-theme-retypeset',
       },
       {
         name: 'Email',
