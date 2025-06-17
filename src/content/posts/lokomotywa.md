@@ -6,7 +6,7 @@ tags:
   - Lokomotywa
 pin: 98
 toc: false
-lang: en
+lang: pl
 abbrlink: lokomotywa
 ---
 
