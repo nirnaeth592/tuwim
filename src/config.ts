@@ -151,6 +151,10 @@ export const themeConfig: ThemeConfig = {
         name: 'RSS',
         url: '/atom.xml', // or /rss.xml
       },
+            {
+        name: 'KINGIT',
+        url: 'https://kingit.pl',
+      },
       {
         name: 'Email',
         url: 'serwis@tuwim.asdadadasd',
