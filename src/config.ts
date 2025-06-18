@@ -156,8 +156,8 @@ export const themeConfig: ThemeConfig = {
         url: 'https://kingit.pl',
       },
       {
-        name: 'Email',
-        url: 'serwis@tuwim.asdadadasd',
+        name: 'praca.info',
+        url: 'https://praca.info',
       },
       // {
       //   name: 'X',
