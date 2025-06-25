@@ -53,7 +53,7 @@ export function generateExcerpt(
     .replace(/<!--[\s\S]*?-->/g, '')
     .replace(/^#{1,6}\s+\S.*$/gm, '')
     .replace(/\n{2,}/g, '\n\n')
-    .replace('<p class="', '', )
+    .replace('<p class="has-line-data"data-line-start="0"data-line-end="', '', )
 
   const length = isCJKLang(lang)
     ? EXCERPT_LENGTHS[scene].cjk
