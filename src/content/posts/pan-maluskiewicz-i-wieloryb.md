@@ -1,17 +1,17 @@
 ---
-title: Pan Maluszkiewicz
+title: Pan Maluśkiewicz i wieloryb
 published: 2025-05-08
 updated: 2025-05-23
 tags:
-  - Pan Maluszkiewicz
+  - Pan Maluśkiewicz i wieloryb
 pin: 98
 toc: false
 lang: pl
-abbrlink: pan-maluszkiewicz
+abbrlink: pan-maluskiewicz-i-wieloryb
 ---
 
 
-## „Pan Maluszkiewicz”
+## „Pan Maluśkiewicz”
 
 
 
