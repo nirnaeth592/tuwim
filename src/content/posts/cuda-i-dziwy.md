@@ -3,7 +3,7 @@ title: Cuda i dziwy
 published: 2025-05-08
 updated: 2025-05-23
 tags:
-  - Cuda
+  - Cuda i dziwy
 pin: 98
 toc: false
 lang: pl
