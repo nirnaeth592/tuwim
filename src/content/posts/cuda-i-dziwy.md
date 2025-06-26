@@ -6,7 +6,7 @@ tags:
   - Cuda
 pin: 98
 toc: false
-lang: en
+lang: en, pl
 abbrlink: cuda-i-dziwy
 ---
 
