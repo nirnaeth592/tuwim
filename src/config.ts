@@ -147,10 +147,10 @@ export const themeConfig: ThemeConfig = {
   footer: {
     // social links
     links: [
-      {
-        name: 'RSS',
-        url: '/atom.xml', // or /rss.xml
-      },
+    //  {
+      //  name: 'RSS',
+      //  url: '/atom.xml', // or /rss.xml
+     // },
             {
         name: 'KINGIT',
         url: 'https://kingit.pl',
