@@ -54,8 +54,8 @@ export const ui = {
     toc: '목차',
   },
   'pl': {
-    title: 'Tuwim',
-    subtitle: 'Wiersze Tuwima',
+    title: 'J.Tuwim',
+    subtitle: 'Julian Tuwim – jeden z najwybitniejszych poetów polskich XX wieku, mistrz języka i humoru. Strona prezentuje jego najpiękniejsze wiersze dla dzieci. Twórczość Tuwima łączy radość życia, dowcip i głębię, pozostając ważną częścią polskiej kultury.',
     description: 'Julian Tuwim – jeden z najwybitniejszych poetów polskich XX wieku, mistrz języka i humoru. Strona prezentuje jego najpiękniejsze wiersze dla dzieci. Twórczość Tuwima łączy radość życia, dowcip i głębię, pozostając ważną częścią polskiej kultury.',
     posts: 'Wiersze',
     tags: 'Tagi',
